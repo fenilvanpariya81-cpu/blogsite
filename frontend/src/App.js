@@ -14,7 +14,7 @@ import { ViewBlog } from './Components/ViewBlog/ViewBlog';
 import { MostLiked } from './Components/LikesAndComments/MostLiked';
 import { MostCommented } from './Components/LikesAndComments/MostCommented';
 import SignIn from './Components/Authentication/SignIn';
-import SignUp from './Components/Authentication/SignUp';
+import SignUp from './Components/Authenticavzvczxvtion/SignUpczxgxgvbv';
 import { UnauthorizeUser } from './Components/Authentication/UnauthorizeUser';
 
 
